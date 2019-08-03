@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ElibraryrestapiApplication<elibraryrestapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "edu.mum.cs.cs425.demos.elibraryrestapi.ElibraryrestapiApplication",
+            "projectName": "elibraryrestapi",
+            "args": ""
+        }
+    ]
+}
